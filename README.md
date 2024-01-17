@@ -1,6 +1,11 @@
-# todo
+# todo demo task
 
 Basic todo by Ruslan Shadaev
+
+
+# TODO
+- [ ] Разбить по компонентам
+- [ ] Массовые действия
 
 ## Recommended IDE Setup
 
